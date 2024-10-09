@@ -17,3 +17,6 @@ Valoración:
 - Se deberá cumplir con el diseño responsive pasando por los 3 formatos solicitados
 - Despliegue en Github Pages realizado correctamente
 
+GithubPage - https://yuliana-alcala.github.io/imageGallery/ 
+
+Autor: Yuliana Alcalá
